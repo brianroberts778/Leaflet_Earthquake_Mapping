@@ -82,7 +82,7 @@ function createMap(earthquakes) {
     collapsed: false
   }).addTo(myMap);
 
-  // Create legend for our map
+  // Create legend for our map. Code from (https://leafletjs.com/examples/choropleth/) //
   var legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function (map) {
