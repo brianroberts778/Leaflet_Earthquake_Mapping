@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-#map,
+#mapid,
 body,
 html {
   height: 100%;
@@ -13,6 +13,7 @@ html {
 .legend {
   line-height: 18px;
   color: #555;
+  background-color: lightgrey;
 }
 .legend i {
   width: 18px;
