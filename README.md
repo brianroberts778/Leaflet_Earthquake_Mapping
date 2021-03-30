@@ -14,4 +14,3 @@ Visualization:
  - The data markers reflect the magnitude of the earthquake by their size and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
  - Includes popups that provide additional information about the earthquake when a marker is clicked.
  - Creates a legend that will provide context for your map data.
- - 
